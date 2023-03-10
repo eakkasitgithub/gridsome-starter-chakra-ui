@@ -86,7 +86,7 @@ export default {
   },
   metaInfo() {
     return {
-      title: "Hello, world!",
+      title: "Hello, world! Hi Hi ",
     };
   },
 };
