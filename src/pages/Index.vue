@@ -23,7 +23,7 @@
       <c-box text-align="center" my="8">
         <c-heading>Hello, world!</c-heading>
         <c-text>
-          Welcome to Gridsome Starter Chakra-UI
+          Welcome IWIWI to Gridsome Starter Chakra-UI
         </c-text>
         <c-link href="https://gridsome.org/docs/" target="_blank" rel="noopener"
           >Gridsome Docs</c-link
